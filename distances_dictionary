@@ -1,0 +1,3 @@
+
+{('Bacillus_subtilis', 'Clostridium_perfringens'): 293.76, ('Bacillus_subtilis', 'E_albertii'): 429.44, ('Bacillus_subtilis', 'E_albertii_minus'): 466.64, ('Bacillus_subtilis', 'E_coli'): 362.12, ('Bacillus_subtilis', 'Klebsiella_pneumoniae'): 395.46, ('Clostridium_perfringens', 'E_albertii'): 432.92, ('Clostridium_perfringens', 'E_albertii_minus'): 469.78, ('Clostridium_perfringens', 'E_coli'): 459.6, ('Clostridium_perfringens', 'Klebsiella_pneumoniae'): 422.1, ('E_albertii', 'E_albertii_minus'): 540.94, ('E_albertii', 'E_coli'): 425.85, ('E_albertii', 'Klebsiella_pneumoniae'): 412.73, ('E_albertii_minus', 'E_coli'): 446.3, ('E_albertii_minus', 'Klebsiella_pneumoniae'): 436.32, ('E_coli', 'Klebsiella_pneumoniae'): 15.22}
+
